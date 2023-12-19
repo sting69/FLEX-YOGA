@@ -1,0 +1,26 @@
+/* EnrollmentForm.css */
+.page-background {
+    background-image: url('../assets/image1.png'); /* Path to your background image */
+    background-size: cover;
+    background-position: center;
+    height: 100vh; /* Full height */
+    display: flex;
+    align-items: center; /* Vertical centering */
+    justify-content: space-around; /* Horizontal centering */
+    flex-direction: column;
+  }
+  
+  .form-container {
+    width: 100%; /* Adjust based on your requirement */
+    max-width: 500px; /* Maximum width of the form */
+    background: rgba(67, 55, 55, 0.8); /* Optional: for better readability */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional: adds a shadow for better focus */
+  }
+  
+  .form-title {
+    text-align: center;
+    margin-bottom: 15px;
+  }
+  
