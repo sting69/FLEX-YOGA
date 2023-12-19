@@ -1,5 +1,5 @@
-#Flex Yoga Enrollment System
-#Overview
+Flex Yoga Enrollment System
+Overview
 
 Flex Yoga Enrollment System is a React-based web application designed for yoga enthusiasts to enroll in different yoga sessions. It provides a user-friendly interface for users to input their details and choose their preferred batch timings.
 
